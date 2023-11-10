@@ -9,7 +9,7 @@ FreeCodeCamp JavaScript Algorithms and Data Structures Certification, showcasing
 
 ### 2. Roman Numeral Converter
 - **Description:** Convert a given number to a Roman numeral.
-- **Link:** [Roman Numeral Converter](https://codepen.io/mrwednesday33/pen/rNJeOQw)
+- **Link:** [Roman Numeral Converter](https://github.com/mrwednesday33/JavaScript-Algorithms-and-Data-Structures/blob/41bdf7308e7345eeadd741e5a3b1776f912d0d5e/palindrome-checker/index.js)
 
 ### 3. Caesars Cipher
 - **Description:** Implement the Caesar's Cipher algorithm.
